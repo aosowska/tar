@@ -127,7 +127,7 @@ Legenda:
 1. Banaszuk David
 1. Byszof Michał
 1. Cabaj Tomasz
-1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia)
+1. Cwilik Dawid
 1. Dziubiński Maciej
 1. Gawin Mateusz
 1. Gołuński Radosław
@@ -135,14 +135,14 @@ Legenda:
 1. Jędzierowska Magdalena
 1. Kalinowski Damian
 1. Katovich Darya
-1. [Kawa Piotr](https://gitlab.com/aurustius)
+1. Kawa Piotr
 1. Knitter Mateusz
 1. Lewandowski Rafał
 1. Luszuk Paweł
 1. Majewski Sebastian
 1. Mikucka Julianna
 1. Novik Aleksandr
-1. Osowska Aleksandra
+1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby)
 1. Pobłocki Patryk
 1. Radomski Artur
 1. Świstun Szymon
